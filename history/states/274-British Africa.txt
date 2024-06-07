@@ -7,8 +7,6 @@ state={
 		chromium=4
 	} #Maganese
 	history={
-		owner = ENG
-		add_core_of = GHA
 		victory_points = {
 			10862 1 
 		}

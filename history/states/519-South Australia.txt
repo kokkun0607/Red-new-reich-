@@ -4,7 +4,6 @@ state={
 	name="STATE_519"
 
 	history={
-		owner = AST
 		buildings = {
 			infrastructure = 1
 			12910 = {
@@ -16,7 +15,6 @@ state={
 		victory_points = {
 			12910 15 
 		}
-		add_core_of = AST
 
 	}
 

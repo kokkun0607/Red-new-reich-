@@ -9,7 +9,6 @@ state={
 
 
 	history={
-		owner = USA
 		buildings = {
 			infrastructure = 4 #was: 7
 			arms_factory = 1
@@ -26,7 +25,6 @@ state={
 			}
 
 		}
-		add_core_of = USA
 		victory_points = {
 			6732 20 
 		}

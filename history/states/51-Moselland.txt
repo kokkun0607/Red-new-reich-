@@ -11,7 +11,6 @@ state={
 	state_category = megalopolis #was metropolis, 2 slots diff
 	
 	history={
-		owner = GER
 		victory_points = {
 			6469 10 
 		}
@@ -31,7 +30,6 @@ state={
 			air_base = 3
 
 		}
-		add_core_of = GER
 
 		1939.1.1 = {
 			buildings = {

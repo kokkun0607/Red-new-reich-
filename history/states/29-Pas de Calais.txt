@@ -11,7 +11,6 @@ state={
 	}
 
 	history={
-		owner = FRA
 		victory_points = {
 			575 5
 		}
@@ -29,7 +28,6 @@ state={
 				naval_base = 6
 			}
 		}
-		add_core_of = FRA
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 6

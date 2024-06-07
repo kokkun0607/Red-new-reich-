@@ -7,7 +7,6 @@ state = {
 	state_category = city
 
 	history = {
-		owner = SWE
 
 		victory_points = {
 			9279 5 # Malmö
@@ -33,7 +32,6 @@ state = {
 			}
 		}
 
-		add_core_of = SWE
 	}
 
 	provinces = {

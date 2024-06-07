@@ -11,8 +11,6 @@ state = {
 
 	history = {
 
-		owner = CHL
-		add_core_of = CHL
 		add_claim_by = BOL
 
 		buildings = {

@@ -9,12 +9,10 @@ state={
 	manpower = 1693974
 
 	history={
-		owner = BEL
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = COG
 
 	}
 

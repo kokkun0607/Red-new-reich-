@@ -6,7 +6,6 @@ state = {
 	}
 
 	history = {
-		owner = MON
 
 		buildings = {
 			infrastructure = 1
@@ -19,7 +18,6 @@ state = {
 			7676 1 #Erdenet, was in 1834 before
 		}
 
-		add_core_of = MON
 	}
 	manpower = 88200
 	buildings_max_level_factor=1.000
