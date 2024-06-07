@@ -10,18 +10,14 @@ state={
 	state_category = town
 	
 	history={
+		owner = MAG
+		add_core_of = MAG
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 3
 		}
 		victory_points = {
 			6573 1 
-		}
-		add_claim_by = HUN
-
-		1939.3.14 = {
-			controller = HUN
-			remove_claim_by = HUN
 		}
 	}
 	

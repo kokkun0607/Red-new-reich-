@@ -8,6 +8,8 @@ state={
 
 
 	history={
+		owner = YSB
+		add_core_of = YSB
 		victory_points = { #Dubrovnik
 			6889 3 
 		}

@@ -10,6 +10,8 @@ state={
 	}
 
 	history={
+		owner = GBR
+		add_core_of = GBR
 		buildings = {
 			infrastructure = 4 #was: 8
 			arms_factory = 2

@@ -4,6 +4,8 @@ state={
 	name="STATE_811"
 
 	history={
+		owner = OST
+		add_core_of = OST
 		buildings = {
 			infrastructure = 1
 		}

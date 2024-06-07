@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+		owner = CRM
+		add_core_of = CRM
 		victory_points = {
 			721 1
 		}

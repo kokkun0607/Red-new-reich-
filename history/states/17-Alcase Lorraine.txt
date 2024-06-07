@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+		owner = NFR
+		add_core_of = NFR
 		victory_points = {
 			9642 5 
 		}

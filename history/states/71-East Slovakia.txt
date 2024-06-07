@@ -6,16 +6,14 @@ state={
 	state_category = rural
 	
 	history={
+		owner = MAG
+		add_core_of = MAG
 		victory_points = {
 			3581 3
 		}
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2
-		}
-
-		1939.3.14 = {
-			controller = SLO
 		}
 	}
 

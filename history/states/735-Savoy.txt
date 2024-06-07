@@ -5,7 +5,8 @@ state = {
 	state_category = town
 
 	history = {
-		add_claim_by = SPM
+		owner = FRA
+		add_core_of = FRA
 		victory_points = {
 			778 1 
 		}

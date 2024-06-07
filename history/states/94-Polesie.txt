@@ -3,6 +3,8 @@ state={
 	name="STATE_94"
 
 	history={
+		owner = OST
+		add_core_of = OST
 		buildings = {
 			infrastructure = 2
 

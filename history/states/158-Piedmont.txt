@@ -13,6 +13,8 @@ state = {
 	}
 
 	history = {
+		owner = SRI
+		add_core_of = SRI
 		victory_points = {
 			6788 10 
 		}

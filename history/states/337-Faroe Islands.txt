@@ -6,6 +6,8 @@ state = {
 	state_category = small_island
 	
 	history = {
+		owner = GBR
+		add_core_of = GBR
 		buildings = {
 			infrastructure = 2
 			13003 = {

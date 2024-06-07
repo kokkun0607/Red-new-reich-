@@ -12,6 +12,8 @@ state = {
 	}
 
 	history= {
+		owner = GBR
+		add_core_of = GBR
 		victory_points = {
 			6062 1 #Skye/Stornoway
 		}

@@ -7,6 +7,8 @@ state={
 	state_category = rural
 
 	history={
+		owner = OST
+		add_core_of = OST
 		victory_points = {
 			9288 10 
 		}

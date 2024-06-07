@@ -4,6 +4,8 @@ state={
 	name="STATE_803"
 
 	history={
+		owner = YSB
+		add_core_of = YSB
 		victory_points = {
 			11857 1 
 		}
@@ -11,7 +13,6 @@ state={
 			infrastructure = 2
 
 		}
-		add_claim_by = BUL
 
 	}
 

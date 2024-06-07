@@ -7,6 +7,8 @@ state={
 	state_category = city
 
 	history={
+		owner = UKR
+		add_core_of = UKR
 		buildings = {
 			infrastructure = 3 #was: 5
 		}

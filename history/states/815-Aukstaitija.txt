@@ -4,6 +4,8 @@ state={
 	name="STATE_815"
 
 	history={
+		owner = OST
+		add_core_of = OST
 		victory_points = {
 			6229 1 #Panevezys
 		}

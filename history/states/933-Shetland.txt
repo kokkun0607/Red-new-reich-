@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = GBR
+		add_core_of = GBR
 		buildings = {
 			infrastructure = 1	
 			6196 = {

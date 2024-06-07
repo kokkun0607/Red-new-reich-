@@ -6,6 +6,8 @@ state= {
 	state_category = town
 
 	history= {
+		owner = GBR
+		add_core_of = GBR
 		victory_points = { 540 10 }
 		victory_points = { 6526 1 }
 		buildings = {

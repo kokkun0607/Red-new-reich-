@@ -9,6 +9,8 @@ state = {
 	}
 
 	history = {
+		owner = GBR
+		add_core_of = GBR
 		victory_points = {
 			11332 3 #Carlisle
 		}

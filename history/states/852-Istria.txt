@@ -8,6 +8,8 @@ state = {
 
 
 	history = {
+		owner = TRI
+		add_core_of = TRI
 		victory_points = { #Fiume (Rijeka)
 			11564 1 
 		}

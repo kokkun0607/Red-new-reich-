@@ -11,6 +11,8 @@ state=
 	}
 	
 	history={
+		owner = AUS
+		add_core_of = AUS
 		victory_points = {
 			3585 3
 		}
@@ -53,10 +55,6 @@ state=
 				bunker = 1
 			}
 
-		}
-
-		1938.9.30 = {
-			controller = GER
 		}
 	}
 	provinces=

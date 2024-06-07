@@ -8,6 +8,8 @@ state={
 	state_category = town
 
 	history={
+		owner = YSB
+		add_core_of = YSB
 		victory_points = { #Varna
 			9783 5
 		}

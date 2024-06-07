@@ -8,17 +8,14 @@ state = {
 	}
 
 	history = {
+		owner = ALB
+		add_core_of = ALB
         victory_points = {
             9780 3 
         }
         buildings = {
             infrastructure = 2
             industrial_complex = 1
-		}
-		add_claim_by = ITA
-		1939.4.12 = {
-		    controller = ITA
-		    remove_claim_by = ITA
 		}
 
 	}

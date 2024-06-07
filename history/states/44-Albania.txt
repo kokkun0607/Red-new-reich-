@@ -9,6 +9,8 @@ state = {
 	}
 
 	history = {
+		owner = ALB
+		add_core_of = ALB
 		victory_points = {
 			9914 5 
 		}
@@ -32,12 +34,6 @@ state = {
 			13255 = {
 				naval_base = 2
 			}
-
-		}
-		add_claim_by = ITA
-		1939.4.12 = {
-			controller = ITA
-			remove_claim_by = ITA
 
 		}
 
