@@ -10,16 +10,13 @@ state = {
 	}
 
 	history = {
+		owner = SWE
+		add_core_of = SWE
 		victory_points = {
 			6132 2
 		}
 		victory_points = {
 			109 1
-		}
-		if = {
-			limit = {
-				has_dlc = "Arms Against Tyranny"
-			}
 		}
 		buildings = {
 			infrastructure = 2

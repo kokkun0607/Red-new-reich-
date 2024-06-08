@@ -6,6 +6,8 @@ state = {
 	}
 
 	history = {
+		owner = KAV
+		add_core_of = KAV
 		buildings = {
 			infrastructure = 2
 

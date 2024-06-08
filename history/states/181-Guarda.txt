@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+		owner = ESP
+		add_core_of = ESP
 		victory_points = {
 			9787 1
 		}

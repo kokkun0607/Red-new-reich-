@@ -9,6 +9,8 @@ state = {
 	}
 
 	history = {
+		owner = HRE
+		add_core_of = HRE
 		buildings = {
 			infrastructure = 2
 		}

@@ -9,6 +9,8 @@ state={
 	}
 
 	history={
+		owner = TAJ
+		add_core_of = TAJ
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 3

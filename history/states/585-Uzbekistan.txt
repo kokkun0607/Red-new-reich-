@@ -3,7 +3,8 @@ state = {
 	name = "STATE_585" #Navoiy
 
 	history = {
-		
+		owner = TAJ
+		add_core_of = TAJ
 		buildings = {
 			infrastructure = 2
 

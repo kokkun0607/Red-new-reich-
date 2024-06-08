@@ -10,6 +10,8 @@ state={
 	}
 
 	history={
+		owner = MOS
+		add_core_of = MOS
 		victory_points = {
 			11349 1
 		}

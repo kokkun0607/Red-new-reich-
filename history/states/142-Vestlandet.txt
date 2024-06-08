@@ -12,6 +12,8 @@ state={
 	}
 
 	history={
+		owner = SCA
+		add_core_of = SCA
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 2

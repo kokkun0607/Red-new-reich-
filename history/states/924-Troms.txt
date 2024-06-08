@@ -10,13 +10,10 @@ state = {
 	}
 
 	history = {
+		owner = FIN
+		add_core_of = FIN
 		victory_points = {
 			11050 1
-		}
-		if = {
-			limit = {
-				has_dlc = "Arms Against Tyranny"
-			}
 		}
 		buildings = {
 			infrastructure = 1

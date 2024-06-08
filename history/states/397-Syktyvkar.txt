@@ -6,6 +6,8 @@ state = {
 	state_category = pastoral
 
 	history = {
+		owner = NRU
+		add_core_of = NRU
 		victory_points = {
 			108 1 
 		}

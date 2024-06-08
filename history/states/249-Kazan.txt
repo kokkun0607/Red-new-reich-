@@ -10,6 +10,8 @@ state={
 	}
 
 	history={
+		owner = HRE
+		add_core_of = HRE
 		buildings = {
 			infrastructure = 3 #was: 6
 			arms_factory = 1

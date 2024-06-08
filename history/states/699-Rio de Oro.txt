@@ -6,6 +6,8 @@ state={
 	state_category = wasteland
 
 	history={
+		owner = ESP
+
 		buildings = {
 			infrastructure = 1
 			8038 = {

@@ -11,17 +11,13 @@ state = {
 	}
 
 	history = {
+		owner = SCA
+		add_core_of = SCA
 		victory_points = {
 			192 5
 		}
 		victory_points = {
 			9126 1
-		}
-		
-		if = {
-			limit = {
-				has_dlc = "Arms Against Tyranny"
-			}
 		}
 		buildings = {
 			infrastructure = 2

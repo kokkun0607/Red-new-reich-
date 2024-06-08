@@ -11,6 +11,8 @@ state = {
 	}
 
 	history = {
+		owner = NRU
+		add_core_of = NRU
 		buildings = {
 			infrastructure = 1
 

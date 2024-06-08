@@ -11,11 +11,8 @@ state = {
 	}
 
 	history = {
-		if = {
-			limit = {
-				has_dlc = "Arms Against Tyranny"
-			}
-		}
+		owner = SCA
+		add_core_of = SCA
 		victory_points = {
 			3048 1
 		}
