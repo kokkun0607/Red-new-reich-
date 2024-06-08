@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+		owner = IKP
+		add_core_of = IKP
 		buildings = {
 			infrastructure = 2
 			#industrial_complex = 1

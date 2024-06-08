@@ -4,8 +4,9 @@ state={
 	manpower=42	
 	state_category = tiny_island
 	
-	history=
-	{
+	history={
+		owner = DEA
+		add_core_of = DEA
 		buildings = {
 			infrastructure = 2
 			13002 = {

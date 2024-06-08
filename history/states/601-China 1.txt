@@ -6,6 +6,8 @@ state={
 	}
 
 	history={
+		owner = CCP
+		add_core_of = CCP
 		buildings = {
 			infrastructure = 1
 

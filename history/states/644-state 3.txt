@@ -3,6 +3,8 @@ state = {
 	name = "STATE_644" # Kolyma
 
 	history = {
+		owner = IFE
+		add_core_of = IFE
 		victory_points = {
 			1819 1 
 		}

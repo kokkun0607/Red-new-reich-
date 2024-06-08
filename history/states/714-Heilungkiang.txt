@@ -3,6 +3,8 @@ state={
 	name="STATE_714"
 
 	history={
+		owner = IKP
+		add_core_of = IKP
 		buildings = {
 			infrastructure = 2
 

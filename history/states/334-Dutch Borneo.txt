@@ -10,7 +10,8 @@ state = {
 	state_category = rural
 
 	history = {
-
+		owner = DEA
+		add_core_of = DEA
 
 		victory_points = {
 			10237 1 

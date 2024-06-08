@@ -8,6 +8,8 @@ state={
 	buildings_max_level_factor=1.000
 	state_category = wasteland
 	history={
+		owner = CCP
+		add_core_of = CCP
 		buildings = {
 			infrastructure = 1
 

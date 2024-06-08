@@ -6,6 +6,8 @@ state={
 	}
 
 	history={
+		owner = DEA
+		add_core_of = DEA
 		buildings = {
 			infrastructure = 2
 			1355 = {

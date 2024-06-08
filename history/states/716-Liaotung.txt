@@ -6,6 +6,8 @@ state={
 	}
 
 	history={
+		owner = IKP
+		add_core_of = IKP
 		buildings = {
 			infrastructure = 2
 			arms_factory = 2

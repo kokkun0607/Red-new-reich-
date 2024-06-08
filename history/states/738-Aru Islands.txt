@@ -3,6 +3,8 @@ state={
 	name="STATE_738"
 
 	history={
+		owner = DEA
+		add_core_of = DEA
 		buildings = {
 			infrastructure = 1
 

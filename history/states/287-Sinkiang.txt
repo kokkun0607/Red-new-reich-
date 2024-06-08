@@ -3,6 +3,8 @@ state={
 	name="STATE_287"
 
 	history={
+		owner = CCP
+		add_core_of = CCP
 		buildings = {
 			infrastructure = 1
 

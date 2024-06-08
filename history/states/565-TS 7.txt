@@ -10,6 +10,8 @@ state={
 	}
 
 	history={
+		owner = RUE
+		add_core_of = RUE
 		buildings = {
 			infrastructure = 1
 		}

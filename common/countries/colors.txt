@@ -123,7 +123,7 @@ SWI ={
 	color_ui = rgb{ 224 5 5 }
 }
 DEN ={
-	color = rgb{ 62 49 28 }
+	color = rgb{ 82 49 28 }
 	color_ui = rgb{ 62 49 28 }
 }
 SIB ={

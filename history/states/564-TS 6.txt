@@ -12,6 +12,8 @@ state={
 	}
 
 	history={
+		owner = RSS
+		add_core_of = RSS
 		victory_points = {
 			7835 2 
 		}

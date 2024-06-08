@@ -3,6 +3,8 @@ state = {
 	name = "STATE_875" #Chukchi Peninsula
 
 	history = {
+		owner = IFE
+		add_core_of = IFE
 		victory_points = {
 			13204 1 
 		}

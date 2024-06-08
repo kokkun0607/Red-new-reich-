@@ -5,6 +5,8 @@ state={
 	manpower=871202
 
 	history={
+		owner = OTT
+		add_core_of = OTT
 		victory_points = {
 			5074 1 
 		}

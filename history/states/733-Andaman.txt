@@ -5,6 +5,8 @@ state={
 	state_category = small_island
 	
 	history={
+		owner = DEA
+		add_core_of = DEA
 		buildings = {
 			infrastructure = 2
 			12251 = {

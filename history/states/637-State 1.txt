@@ -4,6 +4,8 @@ state = {
 	name = "STATE_637" #Kamchatka
 
 	history = {
+		owner = IFE
+		add_core_of = IFE
 		buildings = {
 			infrastructure = 1
 			12207 = {

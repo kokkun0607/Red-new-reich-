@@ -6,6 +6,8 @@ state={
 	}
 
 	history={
+		owner = DEA
+		add_core_of = DEA
 		victory_points = {
 			4401 3 
 		}

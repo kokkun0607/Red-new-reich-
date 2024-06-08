@@ -3,6 +3,8 @@ state = {
 	name = "STATE_877" # Verkhoyansk
 
 	history = {
+		owner = IFE
+		add_core_of = IFE
 		victory_points = {
 			12549 1 
 		}

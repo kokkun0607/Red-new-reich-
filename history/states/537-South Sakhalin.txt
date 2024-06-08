@@ -9,7 +9,8 @@ state= {
 	state_category = rural
 
 	history= {
-		
+		owner = IKP
+		add_core_of = IKP
 		buildings = {
 			infrastructure = 2
 			12446 = {
