@@ -11,8 +11,8 @@ state = {
 	}
 
 	history = {
-		owner = SCA
-		add_core_of = SCA
+		owner = NOR
+		add_core_of = NOR
 		victory_points = {
 			192 5
 		}

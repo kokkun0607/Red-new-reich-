@@ -94,7 +94,7 @@ SIC ={
 	color = rgb{ 214 207 167 }
 	color_ui = rgb{ 214 207 167 }
 }
-SCA ={
+NOR ={
 	color = rgb{ 64 32 0 }
 	color_ui = rgb{ 64 32 0 }
 }

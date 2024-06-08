@@ -4,8 +4,8 @@ state={
 	
 
 	history={
-		owner = HAI
-		add_core_of = HAI
+		owner = KHA
+		add_core_of = KHA
 		buildings = {
 			infrastructure = 1
 			arms_factory = 1
