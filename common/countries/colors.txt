@@ -118,6 +118,14 @@ BRI ={
 	color = rgb{ 97 110 130 }
 	color_ui = rgb{ 97 110 130 }
 }
+SWI ={
+	color = rgb{ 224 5 5 }
+	color_ui = rgb{ 224 5 5 }
+}
+DEN ={
+	color = rgb{ 62 49 28 }
+	color_ui = rgb{ 62 49 28 }
+}
 SIB ={
 	color = rgb{ 247 247 247 }
 	color_ui = rgb{ 247 247 247 }
