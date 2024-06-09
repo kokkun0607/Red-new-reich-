@@ -5,7 +5,8 @@ state = {
 	manpower = 11532
 
 	history = {
-
+		owner = EQU
+		add_core_of = EQU
 
 		buildings = {
 			infrastructure = 1

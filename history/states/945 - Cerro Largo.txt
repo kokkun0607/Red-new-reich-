@@ -11,7 +11,8 @@ state = {
 	}
 
 	history = { 
-
+		owner = URU
+		add_core_of = URU
 
 		buildings = {
 			infrastructure = 2

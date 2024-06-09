@@ -6,6 +6,8 @@ state={
 	state_category = rural
 
 	history={
+		owner = MAF
+		add_core_of = MAF
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

@@ -8,6 +8,8 @@ state={
 	}
 
 	history={
+		owner = MAF
+		add_core_of = MAF
 		victory_points = {
 			9962 1
 		}

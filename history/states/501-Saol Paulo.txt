@@ -6,6 +6,8 @@ state={
 	state_category = city
 
 	history={
+		owner = UBR
+		add_core_of = UBR
 		buildings = {
 			arms_factory = 1
 			industrial_complex = 3

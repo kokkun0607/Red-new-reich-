@@ -4,6 +4,8 @@ state={
 	name="STATE_495"
 
 	history={
+		owner = ABR
+		add_core_of = ABR
 		buildings = {
 			infrastructure = 0
 

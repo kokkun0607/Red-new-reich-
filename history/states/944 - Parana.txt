@@ -8,7 +8,8 @@ state = {
 
 	history = {
 
-
+		owner = UBR
+		add_core_of = UBR
 		buildings = {
 			infrastructure = 2
 			air_base = 1

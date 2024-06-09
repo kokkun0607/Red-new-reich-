@@ -10,8 +10,9 @@ state = {
 		steel = 1
 	}
 
-	history = {
-
+	history = {	
+		owner = PBR
+		add_core_of = PBR
 
 		victory_points = {
 			10999 5

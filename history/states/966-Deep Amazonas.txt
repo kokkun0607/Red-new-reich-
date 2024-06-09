@@ -5,6 +5,8 @@ state={
 		8172 
 	}
 	history={
+		owner = NBR
+		add_core_of = NBR
 	}
 	manpower=8962
 	impassable = yes

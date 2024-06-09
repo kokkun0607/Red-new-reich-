@@ -10,6 +10,8 @@ state=
 	state_category = rural
 	
 	history={
+		owner = ETH
+		add_core_of = ETH
 		victory_points = { #Massaua
 			12766 1
 		}
@@ -18,13 +20,6 @@ state=
 		}
 		victory_points = { #Biscia
 			12723 1
-		}
-		buildings = {
-			infrastructure = 2
-			air_base = 3
-			12766 = {
-				naval_base = 3
-			}
 		}
 	}
 	provinces={

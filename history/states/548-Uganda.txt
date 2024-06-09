@@ -7,6 +7,8 @@ state={
 		rubber=3 # was: 4
 	}
 	history={
+		owner = MAF
+		add_core_of = MAF
 		buildings = {
 			infrastructure = 2
 

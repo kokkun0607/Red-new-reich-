@@ -12,7 +12,8 @@ state = {
 	}
 
 	history = {
-
+		owner = DBR
+		add_core_of = DBR
 
 		buildings = {
 			infrastructure = 1

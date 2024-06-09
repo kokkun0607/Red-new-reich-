@@ -8,7 +8,8 @@ state = {
 
 	history = {
 
-
+		owner = FBR
+		add_core_of = FBR
 
 		buildings = {
 			infrastructure = 3 #was: 5

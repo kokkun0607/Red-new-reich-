@@ -5,6 +5,8 @@ state={
 		5214 13340 13361
 	}
 	history={
+		owner = ABR
+		add_core_of = ABR
 	}
 	manpower=10000
 	buildings_max_level_factor=1.000

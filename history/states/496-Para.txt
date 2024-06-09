@@ -12,7 +12,8 @@ state = {
 	}
 
 	history = {
-
+		owner = PBR
+		add_core_of = PBR
 
 		victory_points = {
 			7476 3

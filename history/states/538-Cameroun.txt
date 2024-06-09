@@ -9,6 +9,8 @@ state={
 	manpower = 1693974
 
 	history={
+		owner = MAF
+		add_core_of = MAF
 		buildings = {
 			infrastructure = 1
 

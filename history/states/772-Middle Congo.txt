@@ -9,6 +9,8 @@ state={
 		rubber=1 # was: 1
 	}
 	history={
+		owner = ESP
+		add_core_of = ESP
 		victory_points = {
 			8193 2
 		}

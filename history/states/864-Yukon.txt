@@ -5,6 +5,8 @@ state={
 		3606 7869 7891 
 	}
 	history = {
+		owner = USA
+		add_core_of = USA
 	}
 	manpower=10
 	state_category = wasteland

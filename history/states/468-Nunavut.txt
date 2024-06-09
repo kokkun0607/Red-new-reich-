@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+		owner = QUE
+		add_core_of = QUE
 
 		buildings = {
 			infrastructure = 3 #was: 6

@@ -7,7 +7,8 @@ state = {
 
 	history = {
 
-		add_claim_by = BOL
+		owner = ARG
+		add_core_of = ARG
 
 		buildings = {
 			infrastructure = 1

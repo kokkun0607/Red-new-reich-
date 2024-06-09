@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+		owner = PBR
+		add_core_of = PBR
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2

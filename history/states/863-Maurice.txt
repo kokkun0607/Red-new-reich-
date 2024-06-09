@@ -5,6 +5,8 @@ state = {
 	state_category = pastoral
 	
 	history = {
+		owner = QUE
+		add_core_of = QUE
 	}
 	
 	provinces = {
