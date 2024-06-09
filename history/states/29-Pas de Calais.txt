@@ -30,11 +30,6 @@ state={
 				naval_base = 6
 			}
 		}
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 6
-			}
-		}
 	}
 
 	provinces={

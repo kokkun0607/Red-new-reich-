@@ -23,11 +23,7 @@ state={
 				coastal_bunker = 5
 			}
 		}
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 7
-			}
-		}
+
 	}
 
 	provinces={

@@ -23,12 +23,7 @@ state={
 			fuel_silo = 1
 			air_base = 8
 		}
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 3
-				industrial_complex = 3
-			}
-		}
+
 	}
 
 	provinces={
