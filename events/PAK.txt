@@ -8,6 +8,22 @@ country_event = {
 	
 	option = {
 		name = PAK_independence.1.a
+		PAK = {
+			country_event = {
+				id = PAK_independence.2
+			}
+		}
+	}
+}
+country_event = {
+	id = PAK_independence.2
+	title = PAK_independence.2.t
+	desc = PAK_independence.2.d
+
+	is_triggered_only = yes
+	
+	option = {
+		name = PAK_independence.2.a
 		white_peace = {
 			tag = IND
 			message = IND_PAK_war_PAK_win

@@ -11,43 +11,46 @@ on_actions = {
 						OR = {
 							AND = {
 								440 = {
-									is_fully_controlled_by = PREV
+									is_fully_controlled_by = PAK
 								}
 								441 = {
-									is_controlled_by = PREV
+									is_controlled_by = PAK
 								}
 								442 = {
-									is_controlled_by = PREV
+									is_controlled_by = PAK
 								}
 								443 = {
-									is_fully_controlled_by = PREV
+									is_fully_controlled_by = PAK
 								}
 								444 = {
-									is_fully_controlled_by = PREV
+									is_fully_controlled_by = PAK
 								}
 								445 = {
-									is_fully_controlled_by = PREV
+									is_fully_controlled_by = PAK
 								}
 								787 = {
-									is_controlled_by = PREV
+									is_controlled_by = PAK
 								}
 							}
 							AND = {
 								428 = {
-									is_controlled_by = PREV
+									is_controlled_by = PAK
 								}
 								433 = {
-									is_controlled_by = PREV
+									is_controlled_by = PAK
 								}
 								439 = {
-									is_controlled_by = PREV
+									is_controlled_by = PAK
 								}
 							}
 						}
 					}
 				}
-				country_event = {
-					id = PAK_independence.1
+				IND = {
+					country_event = {
+						id = PAK_independence.1
+						days = 3
+					}
 				}	
 			}
 		}
