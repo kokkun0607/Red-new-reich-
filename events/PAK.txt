@@ -1,0 +1,17 @@
+add_namespace = PAK_independence
+country_event = {
+	id = PAK_independence.1
+	title = PAK_independence.1.t
+	desc = PAK_independence.1.d
+
+	is_triggered_only = yes
+	
+	option = {
+		name = PAK_independence.1.a
+		white_peace = {
+			tag = IND
+			message = IND_PAK_war_PAK_win
+		}
+		transfer_state = 441
+	}
+}

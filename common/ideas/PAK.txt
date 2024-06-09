@@ -1,0 +1,45 @@
+ideas = {
+
+	country = {
+		PAK_foreigner_support = {
+			allowed = {
+				tag = PAK
+				has_war_with = IND
+			}
+			removal_cost = -1
+			available = {
+				tag = PAK
+				has_war_with = IND
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			picture = idea_chi_chinese_support
+
+			modifier = {
+				military_factory_donations = 5
+				weekly_manpower = 1000
+			}
+		}
+		PAK_independence_effort = {
+			allowed = {
+				tag = PAK
+				has_war_with = IND
+			}
+			removal_cost = -1
+			available = {
+				tag = PAK
+				has_war_with = IND
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			picture = idea_chi_chinese_support
+
+			modifier = {
+				army_attack_factor = 0.5
+				army_defence_factor = 0.5
+			}
+		}
+	}
+}

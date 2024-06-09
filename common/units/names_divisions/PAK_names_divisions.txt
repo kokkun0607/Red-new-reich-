@@ -1,0 +1,27 @@
+﻿# Infantry
+PAK_INF_01 = {
+	name = "name here"
+
+	for_countries = { PAK }
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	fallback_name = "%d name here"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered = {
+		1 = { "1 name here" }
+		2 = { "1 name herei" }
+		3 = { "1 name herei" }
+		4 = { "1 name here" }
+		5 = { "1 name here" }
+		6 = { "1 name here" }
+		7 = { "1 name here" }
+		8 = { "1 name here" }
+		9 = { "1 name here" }
+		10 = { "1 name here" }
+	}
+}
