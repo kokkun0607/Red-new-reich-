@@ -8,26 +8,41 @@ on_actions = {
 							has_country_flag = IND_PAK_war_finished
 						}
 						has_war_with = IND
-						440 = {
-							is_fully_controlled_by = PREV
-						}
-						441 = {
-							is_fully_controlled_by = PREV
-						}
-						442 = {
-							is_fully_controlled_by = PREV
-						}
-						443 = {
-							is_fully_controlled_by = PREV
-						}
-						444 = {
-							is_fully_controlled_by = PREV
-						}
-						445 = {
-							is_fully_controlled_by = PREV
-						}
-						787 = {
-							is_fully_controlled_by = PREV
+						OR = {
+							AND = {
+								440 = {
+									is_fully_controlled_by = PREV
+								}
+								441 = {
+									is_controlled_by = PREV
+								}
+								442 = {
+									is_controlled_by = PREV
+								}
+								443 = {
+									is_fully_controlled_by = PREV
+								}
+								444 = {
+									is_fully_controlled_by = PREV
+								}
+								445 = {
+									is_fully_controlled_by = PREV
+								}
+								787 = {
+									is_controlled_by = PREV
+								}
+							}
+							AND = {
+								428 = {
+									is_controlled_by = PREV
+								}
+								433 = {
+									is_controlled_by = PREV
+								}
+								439 = {
+									is_controlled_by = PREV
+								}
+							}
 						}
 					}
 				}
