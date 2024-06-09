@@ -238,7 +238,7 @@ JPN ={
 	color = rgb{ 121 0 0 }
 	color_ui = rgb{ 121 0 0 }
 }
-TRI ={
+TRP ={
 	color = rgb{ 153 216 201 }
 	color_ui = rgb{ 153 216 201 }
 }

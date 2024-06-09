@@ -1,5 +1,8 @@
 capital = 797
-
+declare_war_on = {
+	type = independence_wargoal
+	target = IND
+}
 # Starting tech
 set_technology = {
 	infantry_weapons = 1

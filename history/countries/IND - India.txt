@@ -1,4 +1,67 @@
 capital = 797
+### India=Pakistan war ###
+	# state 430
+	set_province_controller = 7179
+	set_province_controller = 7662
+	set_province_controller = 9991
+	set_province_controller = 10389
+	set_province_controller = 10416
+	set_province_controller = 10443
+	set_province_controller = 12010
+	set_province_controller = 12423
+	set_province_controller = 13208
+	PAK = {
+		set_province_controller = 1075
+		set_province_controller = 1609
+		set_province_controller = 12050
+	}
+	# state 439
+	PAK = {
+		set_province_controller = 1129
+		set_province_controller = 2076
+		set_province_controller = 7106
+	}
+	# state 440
+	set_province_controller = 8007
+	set_province_controller = 9084
+	set_province_controller = 10066
+	set_province_controller = 10139
+	set_province_controller = 10772
+	set_province_controller = 10843
+	set_province_controller = 10898
+	set_province_controller = 12005
+	set_province_controller = 12792
+	set_province_controller = 12822
+	# state 441
+	PAK = {
+		set_province_controller = 5042
+		set_province_controller = 7273
+	}
+	# state 442
+	set_state_controller = 442
+	# state 443
+	set_province_controller = 1147
+	set_province_controller = 1971
+	set_province_controller = 1980
+	set_province_controller = 4003
+	set_province_controller = 4110
+	set_province_controller = 4382
+	set_province_controller = 7049
+	set_province_controller = 7084
+	set_province_controller = 10735
+	# state 445
+	set_province_controller = 1107
+	set_province_controller = 1107
+	set_province_controller = 7903
+	set_province_controller = 7975
+	set_province_controller = 10813
+	# state787
+	set_province_controller = 1910
+	set_province_controller = 2041
+	set_province_controller = 2084
+
+###################################
+
 
 # Starting tech
 set_technology = {
