@@ -13,5 +13,6 @@ country_event = {
 			message = IND_PAK_war_PAK_win
 		}
 		transfer_state = 441
+		set_country_flag = IND_PAK_war_finished
 	}
 }

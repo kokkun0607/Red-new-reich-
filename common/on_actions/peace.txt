@@ -4,6 +4,9 @@ on_actions = {
 			if = {
 				limit = {
 					PAK = {
+						NOT = {
+							has_country_flag = IND_PAK_war_finished
+						}
 						has_war_with = IND
 						440 = {
 							is_fully_controlled_by = PREV
