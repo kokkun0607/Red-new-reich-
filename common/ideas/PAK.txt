@@ -17,7 +17,8 @@ ideas = {
 			picture = idea_chi_chinese_support
 
 			modifier = {
-				military_factory_donations = 5
+				industrial_factory_donations = 5
+				military_factory_donations = 10
 				weekly_manpower = 1000
 			}
 		}
