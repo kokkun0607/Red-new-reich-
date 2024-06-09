@@ -394,7 +394,7 @@ BOL ={
 	color = rgb{ 244 165 130 }
 	color_ui = rgb{ 244 165 130 }
 }
-PRA ={
+PAR ={
 	color = rgb{ 158 188 218 }
 	color_ui = rgb{ 158 188 218 }
 }
